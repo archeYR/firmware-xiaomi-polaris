@@ -1,0 +1,1 @@
+{"sns_gyro_cal_persist":{"owner":"NA","timestamp":{"type":"int","ver":"9","data":"0"},"accuracy":{"type":"int","ver":"9","data":"0"},"bias":{"type":"grp","ver":"0","data":""},"scale_factor":{"type":"grp","ver":"0","data":""},"compensation_matrix":{"type":"grp","ver":"0","data":""}}}

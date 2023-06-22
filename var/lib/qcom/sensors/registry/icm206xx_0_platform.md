@@ -1,0 +1,1 @@
+{"icm206xx_0_platform.md":{"owner":"sns_icm206xx","config":{"type":"grp","ver":"0","data":""}}}
